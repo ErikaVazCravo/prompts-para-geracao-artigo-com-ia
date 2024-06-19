@@ -1,8 +1,8 @@
-Olá, comunidade!
+## Olá, comunidade!
 
 Venho compartilhar com vocês meu mais recente projeto: um artigo criado com a ajuda de inteligência artificial! 🎉
 
-📘 Título do Artigo: "Feitiçaria com Códigos: Como Numpy, Pandas, Scikit-learn e Matplotlib Transmitem Poderes aos Cientistas de Dados"
+### 📘 Título do Artigo: "Feitiçaria com Códigos: Como Numpy, Pandas, Scikit-learn e Matplotlib Transmitem Poderes aos Cientistas de Dados"
 
 Este projeto foi desenvolvido para o Bootcamp Santander 2024 - Fundamentos de IA para Devs, com as aulas de [Felipe Silva Aguiar](https://www.linkedin.com/in/ACoAABLpUBgBQzTIZyVSL0M4NMZu0mXvv5wCRQ8), Foi uma experiência especial porque foi criado com o auxílio de IA´s:
 
@@ -18,6 +18,7 @@ O que garantiu um conteúdo enxuto e direto.
 Adorei o resultado final 😍 
 
 ### [Clique aqui](https://web.dio.me/articles/feiticaria-com-codigos-como-numpy-pandas-scikit-learn-e-matplotlib-transmitem-poderes-aos-cientistas-de-dados?back=%2Farticles&open-modal=true&page=1&order=oldest) e acesse o artigo na íntegra.
+
 
 
 
